@@ -34,11 +34,3 @@ jobs:
     - name: testing
       run: npm test
         
-    - name: creating build
-      run: yarn build-storybook
-     
-    - name: installing surge
-      run: npm install -g surge
-      
-    - name: deploying on surge
-      run: surge ./storybook-static taskbox-components.surge.sh --token ${{ secrets.MY_TOKEN }}
