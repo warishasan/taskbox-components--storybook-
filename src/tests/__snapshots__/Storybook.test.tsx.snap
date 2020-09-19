@@ -1,0 +1,1361 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Default 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedPrimary"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Button Large 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Button Outlined 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-outlined button MuiButton-outlinedPrimary"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Button Pink Button 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedSecondary"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Button Small 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots New Task Default 1`] = `
+<div
+  className="newTaskContainer"
+>
+  <h2
+    className="newTaskHeading"
+  >
+    Create a New Task
+  </h2>
+  <input
+    placeholder="Planning something?"
+    type="text"
+  />
+  <div
+    className="buttonContainer"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Save
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained button MuiButton-containedSecondary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Cancel
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Task Archived 1`] = `
+<div
+  className="list-item TASK_ARCHIVED"
+>
+  <div
+    className="checkbox_Text"
+  >
+    <label>
+      <input
+        defaultChecked={true}
+        disabled={true}
+        name="checked"
+        onClick={[Function]}
+        type="checkbox"
+      />
+    </label>
+    <p
+      className="archived"
+      data-testid="text"
+    >
+       
+      Archived Task
+       
+    </p>
+  </div>
+  <div
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`Storyshots Task Default 1`] = `
+<div
+  className="list-item TASK_INBOX"
+>
+  <div
+    className="checkbox_Text"
+  >
+    <label>
+      <input
+        defaultChecked={false}
+        disabled={false}
+        name="checked"
+        onClick={[Function]}
+        type="checkbox"
+      />
+    </label>
+    <p
+      data-testid="text"
+    >
+       
+      New Task
+       
+    </p>
+  </div>
+  <div
+    onClick={[Function]}
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root starUnpinned"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Task Pinned 1`] = `
+<div
+  className="list-item TASK_PINNED"
+>
+  <div
+    className="checkbox_Text"
+  >
+    <label>
+      <input
+        defaultChecked={false}
+        disabled={false}
+        name="checked"
+        onClick={[Function]}
+        type="checkbox"
+      />
+    </label>
+    <p
+      data-testid="text"
+    >
+       
+      Pinned Task
+       
+    </p>
+  </div>
+  <div
+    onClick={[Function]}
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root starPinned"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList Default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 1
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 2
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 3
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 4
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 5
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 6
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList Empty 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="emptyListWrapper"
+  >
+    <span />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root tickIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <div
+      className="emptyListText"
+    >
+      You have no tasks
+    </div>
+    <div
+      className="emptyListText"
+    >
+      Sit back and relax
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList Loading 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="loader"
+  >
+    <div
+      className="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style={
+        Object {
+          "height": 40,
+          "width": 40,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={20.2}
+          strokeWidth={3.6}
+          style={Object {}}
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList With Archived And Pinned Tasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div>
+    <div
+      className="list-item TASK_PINNED"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 5 (pinned)
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starPinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 1
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 2
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 3
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 6
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_ARCHIVED"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={true}
+            disabled={true}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          className="archived"
+          data-testid="text"
+        >
+           
+          Task 4 (archived)
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList With Archived Tasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 2
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 3
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 4
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 5
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 6
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_ARCHIVED"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={true}
+            disabled={true}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          className="archived"
+          data-testid="text"
+        >
+           
+          Task 1 (archived)
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList With Pinned Tasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div>
+    <div
+      className="list-item TASK_PINNED"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 6 (pinned)
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starPinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 1
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 2
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 3
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 4
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="list-item TASK_INBOX"
+    >
+      <div
+        className="checkbox_Text"
+      >
+        <label>
+          <input
+            defaultChecked={false}
+            disabled={false}
+            name="checked"
+            onClick={[Function]}
+            type="checkbox"
+          />
+        </label>
+        <p
+          data-testid="text"
+        >
+           
+          Task 5
+           
+        </p>
+      </div>
+      <div
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root starUnpinned"
+          focusable="false"
+          onClick={[Function]}
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
